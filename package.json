@@ -1,0 +1,15 @@
+{
+  "name": "validation-service",
+  "version": "0.0.1",
+  "description": "A Validation Service for BOBCo products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/Bob620/validation-service"
+  },
+  "author": "Bob620",
+  "license": "ISC"
+}
