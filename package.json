@@ -1,14 +1,14 @@
 {
-  "name": "validation-service",
+  "name": "meta-manipulator",
   "version": "0.0.1",
-  "description": "A Validation Service for BOBCo products",
+  "description": "A meta Service for BOBCo services",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/Bob620/validation-service"
+    "url": "https://www.github.com/Bob620/meta-manipulator"
   },
   "author": "Bob620",
   "license": "ISC"
